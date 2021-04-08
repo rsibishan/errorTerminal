@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "sibishan",
     "public": "public",
     "ignore": [
       "firebase.json",
